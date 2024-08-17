@@ -1,0 +1,1 @@
+Math Gestures with Hand Tracking is an interactive application designed to recognize mathematical gestures and provide corresponding answers using hand-tracking technology and AI. This application integrates real-time hand gesture recognition with a generative AI model to solve math problems based on user input.
